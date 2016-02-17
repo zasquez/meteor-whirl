@@ -44,21 +44,5 @@ Then there are;
 
 There is also `no-overlay` which will hide the overlay which is added by default.
 
-#### How does this work?
-Not surprisingly it's real simple! :)
 
-whirl makes use of CSS pseudo elements. It uses `:before` to provide an overlay effect if required and `:after` to show the animated spinner/bar etc.
-
-making use of pseudo elements means that we can add whirl loading animations to any existing element on our page without being intrusive just by adding some classes as long as the elements pseudo elements aren't currently in use.
-
-#### Contributing
-
-Any suggestions, improvements or issues are welcome. :)
-
-@jh3y
-
-#### License
-
-MIT
-
-Copyright 2014 [@jh3y](https://github.com/jh3y)
+thanks [@jh3y](https://github.com/jh3y)
