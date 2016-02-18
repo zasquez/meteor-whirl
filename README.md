@@ -4,7 +4,7 @@ Pure CSS loading animations with minimal effort for meteor
 ## Installation
 
 ```
-$ meteor add yasaricli:whirl
+$ meteor add pmteor:whirl
 ```
 
 

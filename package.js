@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'yasaricli:whirl',
+  name: 'pmteor:whirl',
   version: '0.0.1',
   summary: 'Pure css loading animations with minimal effort for meteor',
-  git: 'https://github.com/yasaricli/meteor-whirl.git',
+  git: 'https://github.com/pmteor/meteor-whirl.git',
   documentation: 'README.md'
 });
 
